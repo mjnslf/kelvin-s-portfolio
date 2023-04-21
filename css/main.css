@@ -23,6 +23,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
+    margin-bottom: 76px;
 }
 
 .logo{
@@ -73,6 +74,7 @@ body{
 }
 
 .header-content{
+    margin-top: 124px;
     max-width: 500px;
 }
 
