@@ -83,6 +83,10 @@ body{
 
 }
 
+.nav-button{
+    display: none;
+}
+
 .nav-link.active{
     color: #606060;
 }
@@ -195,4 +199,16 @@ body{
 
 .contacts-button{
     margin-bottom: 80px;
+}
+
+.contacts-social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 60px;
+    margin-bottom: 40px;
+}
+
+.contacts-footer{
+    color: #828282;
 }
